@@ -1,0 +1,17 @@
+D:\C#new\SLAESolver\SLAESolver\bin\Debug\net7.0\SLAESolver.exe
+D:\C#new\SLAESolver\SLAESolver\bin\Debug\net7.0\SLAESolver.deps.json
+D:\C#new\SLAESolver\SLAESolver\bin\Debug\net7.0\SLAESolver.runtimeconfig.json
+D:\C#new\SLAESolver\SLAESolver\bin\Debug\net7.0\SLAESolver.dll
+D:\C#new\SLAESolver\SLAESolver\bin\Debug\net7.0\SLAESolver.pdb
+D:\C#new\SLAESolver\SLAESolver\bin\Debug\net7.0\MySqlConnector.dll
+D:\C#new\SLAESolver\SLAESolver\obj\Debug\net7.0\SLAESolver.csproj.AssemblyReference.cache
+D:\C#new\SLAESolver\SLAESolver\obj\Debug\net7.0\SLAESolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#new\SLAESolver\SLAESolver\obj\Debug\net7.0\SLAESolver.AssemblyInfoInputs.cache
+D:\C#new\SLAESolver\SLAESolver\obj\Debug\net7.0\SLAESolver.AssemblyInfo.cs
+D:\C#new\SLAESolver\SLAESolver\obj\Debug\net7.0\SLAESolver.csproj.CoreCompileInputs.cache
+D:\C#new\SLAESolver\SLAESolver\obj\Debug\net7.0\SLAESolver.csproj.CopyComplete
+D:\C#new\SLAESolver\SLAESolver\obj\Debug\net7.0\SLAESolver.dll
+D:\C#new\SLAESolver\SLAESolver\obj\Debug\net7.0\refint\SLAESolver.dll
+D:\C#new\SLAESolver\SLAESolver\obj\Debug\net7.0\SLAESolver.pdb
+D:\C#new\SLAESolver\SLAESolver\obj\Debug\net7.0\SLAESolver.genruntimeconfig.cache
+D:\C#new\SLAESolver\SLAESolver\obj\Debug\net7.0\ref\SLAESolver.dll

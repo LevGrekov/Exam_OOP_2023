@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tCUV77Cw1ak3fZS2khrhYT9eBC3T4KSIRQRw/RV39jncU62AuTZaO3jM3mhXqi00/hZLEufIGVLgU7G0cJakOA==",
+  "success": true,
+  "projectFilePath": "D:\\C#new\\SLAESolver\\SLAESolver\\SLAESolver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lev Grekov\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512"
+  ],
+  "logs": []
+}
