@@ -1,0 +1,17 @@
+D:\C#new\AnotherIntegralCounter\AnotherIntegralCounter\bin\Debug\net7.0-windows\AnotherIntegralCounter.exe
+D:\C#new\AnotherIntegralCounter\AnotherIntegralCounter\bin\Debug\net7.0-windows\AnotherIntegralCounter.deps.json
+D:\C#new\AnotherIntegralCounter\AnotherIntegralCounter\bin\Debug\net7.0-windows\AnotherIntegralCounter.runtimeconfig.json
+D:\C#new\AnotherIntegralCounter\AnotherIntegralCounter\bin\Debug\net7.0-windows\AnotherIntegralCounter.dll
+D:\C#new\AnotherIntegralCounter\AnotherIntegralCounter\bin\Debug\net7.0-windows\AnotherIntegralCounter.pdb
+D:\C#new\AnotherIntegralCounter\AnotherIntegralCounter\obj\Debug\net7.0-windows\AnotherIntegralCounter.csproj.AssemblyReference.cache
+D:\C#new\AnotherIntegralCounter\AnotherIntegralCounter\obj\Debug\net7.0-windows\AnotherIntegralCounter.Form1.resources
+D:\C#new\AnotherIntegralCounter\AnotherIntegralCounter\obj\Debug\net7.0-windows\AnotherIntegralCounter.csproj.GenerateResource.cache
+D:\C#new\AnotherIntegralCounter\AnotherIntegralCounter\obj\Debug\net7.0-windows\AnotherIntegralCounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#new\AnotherIntegralCounter\AnotherIntegralCounter\obj\Debug\net7.0-windows\AnotherIntegralCounter.AssemblyInfoInputs.cache
+D:\C#new\AnotherIntegralCounter\AnotherIntegralCounter\obj\Debug\net7.0-windows\AnotherIntegralCounter.AssemblyInfo.cs
+D:\C#new\AnotherIntegralCounter\AnotherIntegralCounter\obj\Debug\net7.0-windows\AnotherIntegralCounter.csproj.CoreCompileInputs.cache
+D:\C#new\AnotherIntegralCounter\AnotherIntegralCounter\obj\Debug\net7.0-windows\AnotherIntegralCounter.dll
+D:\C#new\AnotherIntegralCounter\AnotherIntegralCounter\obj\Debug\net7.0-windows\refint\AnotherIntegralCounter.dll
+D:\C#new\AnotherIntegralCounter\AnotherIntegralCounter\obj\Debug\net7.0-windows\AnotherIntegralCounter.pdb
+D:\C#new\AnotherIntegralCounter\AnotherIntegralCounter\obj\Debug\net7.0-windows\AnotherIntegralCounter.genruntimeconfig.cache
+D:\C#new\AnotherIntegralCounter\AnotherIntegralCounter\obj\Debug\net7.0-windows\ref\AnotherIntegralCounter.dll

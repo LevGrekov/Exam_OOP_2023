@@ -1,0 +1,4 @@
+Upper Limit: 41
+Lower Limit: 0
+Intervals: 1
+Answer: 143,5416604718008

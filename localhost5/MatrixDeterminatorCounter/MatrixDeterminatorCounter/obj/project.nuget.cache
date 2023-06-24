@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2jb56JEG7Nlfv3mcjyJm3dRg91YaPPCuL5GoGUkPArNbrz0bf4eB9oVOPUKY/NpjgDpegdRsWz2Ti9ioS6vq1g==",
+  "success": true,
+  "projectFilePath": "D:\\C#new\\MatrixDeterminatorCounter\\MatrixDeterminatorCounter\\MatrixDeterminatorCounter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lev Grekov\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512"
+  ],
+  "logs": []
+}

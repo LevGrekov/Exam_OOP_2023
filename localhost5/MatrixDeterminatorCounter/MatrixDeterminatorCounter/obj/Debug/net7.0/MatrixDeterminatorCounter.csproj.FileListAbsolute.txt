@@ -1,0 +1,17 @@
+D:\C#new\MatrixDeterminatorCounter\MatrixDeterminatorCounter\bin\Debug\net7.0\MatrixDeterminatorCounter.exe
+D:\C#new\MatrixDeterminatorCounter\MatrixDeterminatorCounter\bin\Debug\net7.0\MatrixDeterminatorCounter.deps.json
+D:\C#new\MatrixDeterminatorCounter\MatrixDeterminatorCounter\bin\Debug\net7.0\MatrixDeterminatorCounter.runtimeconfig.json
+D:\C#new\MatrixDeterminatorCounter\MatrixDeterminatorCounter\bin\Debug\net7.0\MatrixDeterminatorCounter.dll
+D:\C#new\MatrixDeterminatorCounter\MatrixDeterminatorCounter\bin\Debug\net7.0\MatrixDeterminatorCounter.pdb
+D:\C#new\MatrixDeterminatorCounter\MatrixDeterminatorCounter\bin\Debug\net7.0\MySqlConnector.dll
+D:\C#new\MatrixDeterminatorCounter\MatrixDeterminatorCounter\obj\Debug\net7.0\MatrixDeterminatorCounter.csproj.AssemblyReference.cache
+D:\C#new\MatrixDeterminatorCounter\MatrixDeterminatorCounter\obj\Debug\net7.0\MatrixDeterminatorCounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#new\MatrixDeterminatorCounter\MatrixDeterminatorCounter\obj\Debug\net7.0\MatrixDeterminatorCounter.AssemblyInfoInputs.cache
+D:\C#new\MatrixDeterminatorCounter\MatrixDeterminatorCounter\obj\Debug\net7.0\MatrixDeterminatorCounter.AssemblyInfo.cs
+D:\C#new\MatrixDeterminatorCounter\MatrixDeterminatorCounter\obj\Debug\net7.0\MatrixDeterminatorCounter.csproj.CoreCompileInputs.cache
+D:\C#new\MatrixDeterminatorCounter\MatrixDeterminatorCounter\obj\Debug\net7.0\MatrixDeterminatorCounter.csproj.CopyComplete
+D:\C#new\MatrixDeterminatorCounter\MatrixDeterminatorCounter\obj\Debug\net7.0\MatrixDeterminatorCounter.dll
+D:\C#new\MatrixDeterminatorCounter\MatrixDeterminatorCounter\obj\Debug\net7.0\refint\MatrixDeterminatorCounter.dll
+D:\C#new\MatrixDeterminatorCounter\MatrixDeterminatorCounter\obj\Debug\net7.0\MatrixDeterminatorCounter.pdb
+D:\C#new\MatrixDeterminatorCounter\MatrixDeterminatorCounter\obj\Debug\net7.0\MatrixDeterminatorCounter.genruntimeconfig.cache
+D:\C#new\MatrixDeterminatorCounter\MatrixDeterminatorCounter\obj\Debug\net7.0\ref\MatrixDeterminatorCounter.dll

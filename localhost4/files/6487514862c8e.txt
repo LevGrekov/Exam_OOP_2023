@@ -1,0 +1,4 @@
+Upper Limit: 1
+Lower Limit: 0
+Intervals: 10000
+Answer: 0,5738496480745775
