@@ -1,0 +1,17 @@
+D:\C#new\SLAUExam\SLAUExam\bin\Debug\net7.0\SLAUExam.exe
+D:\C#new\SLAUExam\SLAUExam\bin\Debug\net7.0\SLAUExam.deps.json
+D:\C#new\SLAUExam\SLAUExam\bin\Debug\net7.0\SLAUExam.runtimeconfig.json
+D:\C#new\SLAUExam\SLAUExam\bin\Debug\net7.0\SLAUExam.dll
+D:\C#new\SLAUExam\SLAUExam\bin\Debug\net7.0\SLAUExam.pdb
+D:\C#new\SLAUExam\SLAUExam\bin\Debug\net7.0\MySqlConnector.dll
+D:\C#new\SLAUExam\SLAUExam\obj\Debug\net7.0\SLAUExam.csproj.AssemblyReference.cache
+D:\C#new\SLAUExam\SLAUExam\obj\Debug\net7.0\SLAUExam.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#new\SLAUExam\SLAUExam\obj\Debug\net7.0\SLAUExam.AssemblyInfoInputs.cache
+D:\C#new\SLAUExam\SLAUExam\obj\Debug\net7.0\SLAUExam.AssemblyInfo.cs
+D:\C#new\SLAUExam\SLAUExam\obj\Debug\net7.0\SLAUExam.csproj.CoreCompileInputs.cache
+D:\C#new\SLAUExam\SLAUExam\obj\Debug\net7.0\SLAUExam.csproj.CopyComplete
+D:\C#new\SLAUExam\SLAUExam\obj\Debug\net7.0\SLAUExam.dll
+D:\C#new\SLAUExam\SLAUExam\obj\Debug\net7.0\refint\SLAUExam.dll
+D:\C#new\SLAUExam\SLAUExam\obj\Debug\net7.0\SLAUExam.pdb
+D:\C#new\SLAUExam\SLAUExam\obj\Debug\net7.0\SLAUExam.genruntimeconfig.cache
+D:\C#new\SLAUExam\SLAUExam\obj\Debug\net7.0\ref\SLAUExam.dll

@@ -1,0 +1,83 @@
+body{
+    background-color: silver;
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    width: 1024px;
+    margin: 0 auto;
+    background-color: white;
+    border: 1px dotted lightpink;
+}
+
+.header{
+    float: left;
+    width: calc(100% - 40px);
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    color: purple;
+    border: 1px dotted lightpink;
+}
+
+.footer{
+    clear: both;
+    width: calc(100% - 40px);
+    font-size: small;
+    text-align: right;
+    padding: 20px;
+    border: 1px dotted lightpink;
+}
+
+.content{
+    float: left;
+    padding: 10px;
+    width: calc(100% - 243px);
+    border: 1px dotted lightpink;
+}
+
+.menu{
+    float: left;
+    padding: 10px;
+    text-align: center;
+    width: 200px;
+    border: 1px dotted lightpink;
+}
+
+a.l_menuitem{
+    color: white;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.menuitem{
+    width: calc(100% - 20px);
+    margin: 5px auto;
+    padding: 10px;
+    background-color: plum;
+    color: white;
+    font-weight: bold;
+}
+
+.auth{
+    border: 1px solid plum;
+    margin: auto;
+}
+
+.tdhead{
+    border: 1px dotted plum;
+    text-align: center;
+    font-weight: bold;
+}
+
+.error{
+    font-weight: bold;
+    color: #4f0070;
+    text-align: center;
+    padding: 10px;
+    width: calc(100% - 40px);
+    margin: 10px;
+    background-color: palevioletred;
+}

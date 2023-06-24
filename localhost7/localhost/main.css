@@ -1,0 +1,25 @@
+.custom-header {
+    background-color: gold;
+    padding: 10px;
+}
+
+.custom-brand {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+.custom-link {
+    color: white;
+    text-decoration: none;
+}
+
+.custom-link:hover {
+    text-decoration: underline;
+}
+
+.custom-footer {
+    background-color: gold;
+    padding: 10px;
+}
