@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "IntegralForExamWithGUI/1.0.0": {
+        "dependencies": {
+          "MySqlConnector": "2.2.6",
+          "WinForms.DataVisualization": "1.8.0"
+        },
+        "runtime": {
+          "IntegralForExamWithGUI.dll": {}
+        }
+      },
+      "MySqlConnector/2.2.6": {
+        "runtime": {
+          "lib/net7.0/MySqlConnector.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.2.6.0"
+          }
+        }
+      },
+      "WinForms.DataVisualization/1.8.0": {
+        "runtime": {
+          "lib/net7.0-windows7.0/WinForms.DataVisualization.Utilities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.8.0.0"
+          },
+          "lib/net7.0-windows7.0/WinForms.DataVisualization.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.8.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntegralForExamWithGUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySqlConnector/2.2.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oYHl9TNhJXBEqfuiaEsOdBPkdULOcCCbqZJzYhy0rtREnMVoluG73GM8+gwBCMb1vbjv9K1ehQnhe0cxdxfOCA==",
+      "path": "mysqlconnector/2.2.6",
+      "hashPath": "mysqlconnector.2.2.6.nupkg.sha512"
+    },
+    "WinForms.DataVisualization/1.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+L0hJaW1kq78Z4HQlIhq8Jmsuz8n9rRaJgTdwLwzYItgiL6U9zNgM+RWRBsD3pSUw1QRMy7GlpZI/+XMmnXCmA==",
+      "path": "winforms.datavisualization/1.8.0",
+      "hashPath": "winforms.datavisualization.1.8.0.nupkg.sha512"
+    }
+  }
+}

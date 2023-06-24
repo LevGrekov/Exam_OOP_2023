@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8nU+flFRKWnOnW6Y1OEWEsHPvs2TevoB5kX+W5KPxdvzToA/Pt+CiePnZzJOCtaRuwvFRINDhTCO8IYkxmgdKQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#new\\IntegralForExamWithGUI\\IntegralForExamWithGUI\\IntegralForExamWithGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lev Grekov\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512",
+    "C:\\Users\\Lev Grekov\\.nuget\\packages\\winforms.datavisualization\\1.8.0\\winforms.datavisualization.1.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
